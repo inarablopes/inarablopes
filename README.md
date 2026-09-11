@@ -15,10 +15,10 @@ Atualmente cursando o programa Mulher Digital (Junior Achievement), que me prepa
 
 Para organizar meu aprendizado prático, divido meus estudos nos seguintes repositórios:
 
-- 🌐 **`redes-packet-tracer`**
+- 🌐 **[`redes-packet-tracer`](https://github.com/inarablopes/redes-packet-tracer)**
   Documentação de estudos em redes de computadores, englobando topologias, configurações no Cisco Packet Tracer (VLANs, Roteamento, ACLs, NAT/PAT) e fundamentos de infraestrutura.
 
-- 🔐 **`cybersecurity-study-notes`**
+- 🔐 **[`cybersecurity-study-notes`](https://github.com/inarablopes/cybersecurity-study-notes)**
   Anotações e análises de Cibersegurança, cobrindo técnicas do framework MITRE ATT&CK, análises de incidentes (como o caso Change Healthcare), estudos de caso e conceitos defensivos.
 
 > ⚠️ **<span style="color:red">OBS: todos os projetos mencionados estão disponíveis nos repositórios acima.</span>**

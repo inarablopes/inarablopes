@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Olá, eu sou a Inara Lopes!
 
-### 🛡️ Segurança da Informação • 🌐 Redes • 🔍 Análise de Vulnerabilidade
+### Segurança da Informação •  Redes •  Análise de Vulnerabilidade
 
 ![Redes](https://img.shields.io/badge/Redes-Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC_%26_Pentest-E5173F?style=for-the-badge&logo=hackthebox&logoColor=white)
@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Estudante de **Administração** e **Cibersegurança**, construindo minha carreira com foco em **defesa**, **redes** e **análise de incidentes**.
 
-- 🎓 Cursando o programa **Mulher Digital (Junior Achievement)**, que me prepara para a certificação **Cisco CCST** com uma base sólida em fundamentos de redes e suporte
-- 🧠 Na **Kodie Academy**, aprofundo o lado prático dos dois lados da moeda:
+- Cursando o programa **Mulher Digital (Junior Achievement)**, que me prepara para a certificação **Cisco CCST** com uma base sólida em fundamentos de redes e suporte
+- Na **Kodie Academy**, aprofundo o lado prático dos dois lados da moeda:
   - 🔵 **Blue Team:** proteção de ambientes e táticas de defesa
   - 🔴 **Red Team:** visão de ataque com **Pentesting** e o framework **MITRE ATT&CK**
-- 📚 Documento tudo que aprendo em repositórios públicos
+-  Documento tudo que aprendo em repositórios públicos
 
 ---
 
@@ -29,9 +29,9 @@ Estudante de **Administração** e **Cibersegurança**, construindo minha carrei
 
 | 🗂️ Repositório | 📝 O que você vai encontrar |
 |---|---|
-| 🌐 [**redes-packet-tracer**](https://github.com/inarablopes/redes-packet-tracer) | Estudos de redes de computadores: topologias, configurações no **Cisco Packet Tracer** (VLANs, Roteamento, ACLs, NAT/PAT) e fundamentos de infraestrutura |
-| 🚨 [**mini-projeto-soc-tripledobleu**](https://github.com/inarablopes/mini-projeto-soc-tripledobleu) | Análise de incidente como **analista júnior de SOC**: do phishing à exfiltração de dados. Logs, SIEM, IDS, MFA, DNS e resposta inicial. Mini projeto técnico do Mulher Digital (JA Américas) |
-| 🦈 [**wireshark-analise-trafego**](https://github.com/inarablopes/wireshark-analise-trafego) | Como identificar um **Man-in-the-Middle** olhando pacotes **ARP** e **TCP** no Wireshark |
+| [**redes-packet-tracer**](https://github.com/inarablopes/redes-packet-tracer) | Estudos de redes de computadores: topologias, configurações no **Cisco Packet Tracer** (VLANs, Roteamento, ACLs, NAT/PAT) e fundamentos de infraestrutura |
+| [**mini-projeto-soc-tripledobleu**](https://github.com/inarablopes/mini-projeto-soc-tripledobleu) | Análise de incidente como **analista júnior de SOC**: do phishing à exfiltração de dados. Logs, SIEM, IDS, MFA, DNS e resposta inicial. Mini projeto técnico do Mulher Digital (JA Américas) |
+| [**wireshark-analise-trafego**](https://github.com/inarablopes/wireshark-analise-trafego) | Como identificar um **Man-in-the-Middle** olhando pacotes **ARP** e **TCP** no Wireshark |
 
 ---
 
@@ -47,11 +47,11 @@ Estudante de **Administração** e **Cibersegurança**, construindo minha carrei
 
 ---
 
-## 🎯 Foco atual
+##  Foco atual
 
-- 🏅 Certificação **Cisco CCST**
-- 🔎 Análise de incidentes e operações de **SOC**
-- 🧪 **Pentesting** e mapeamento de táticas com **MITRE ATT&CK**
+- Certificação **Cisco CCST**
+- Análise de incidentes e operações de **SOC**
+- **Pentesting** e mapeamento de táticas com **MITRE ATT&CK**
 
 ---
 
